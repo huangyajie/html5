@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>服务器数据更新</h1>
+<div id="result"></div>
+<script type="text/javascript">
+
+    var source = new EventSource("http://localhost/demo.php");
+    source.onmessage = function(event)
+    {
+        //window.alert("123");
+        document.getElementById("result").innerHTML+=event.data+"<br/>";
+    };
+
+</script>
+</body>
+</html>

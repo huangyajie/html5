@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>hello html5</h1>
+<!--<video src="test.mp4" width="320" height="240" controls="controls">-->
+<!--</video>-->
+<button onclick="playPause()">播放/暂停</button> <br/>
+<video id="video2" width="800" height="480" >
+
+    <source src="test.mp4">
+
+</video>
+
+<script type="text/javascript">
+    var v = document.getElementById("video2");
+
+    function playPause()
+    {
+//        window.alert("click")
+        if(v.paused)
+            v.play();
+        else
+            v.pause();
+    }
+
+</script>
+
+</body>
+</html>
