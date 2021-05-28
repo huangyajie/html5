@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T01:01:28.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.2" etag="5pN95qHtxkpsjA1RAo4O" type="github"><diagram id="7hfc12y7ZKk-f09IoSAR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-28T01:16:07.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cfuWBCuttg_FHuotHE0d" version="14.7.2" type="github">
+  <diagram id="7hfc12y7ZKk-f09IoSAR" name="Page-1">
+    <mxGraphModel dx="1022" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-1" value="设备管理及消息分发服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-2" value="数据收发及转换服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-3" value="任务调度服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-4" value="通用设备业务处理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-5" value="环境设备业务处理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-6" value="安防设备业务处理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-7" value="。。。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOQSDGfmGghrm2BuBOK-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;" vertex="1" parent="1">
+          <mxGeometry x="660" y="145.15" width="22.8" height="29.7" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
